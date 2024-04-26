@@ -1,0 +1,13 @@
+.block {
+  display: flex;
+  gap: 16px;
+  border: 1px solid red;
+
+  &:hover {
+    background-color: green;
+  }
+}
+
+.icon {
+  color: red;
+}
